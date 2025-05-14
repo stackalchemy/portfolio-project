@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishabh madaan
+# 👋 Hi, I'm Rishabh Madaan
 
 I'm a passionate **Frontend Developer** who loves turning ideas into interactive web experiences. Always exploring new tech, building cool stuff, and leveling up.
 
