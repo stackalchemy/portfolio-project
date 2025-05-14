@@ -7,7 +7,7 @@ I'm a passionate **Frontend Developer** who loves turning ideas into interactive
 ## 💻 Tech Stack
 
 - 🌐 HTML, CSS, JavaScript  
-- ⚛️ React (beginner level, always learning!)  
+- ⚛️ React 
 - 🎨 Responsive & Clean UI Design  
 - 🧠 Currently expanding into: React hooks, component design, and API integration
 -  Version control with Git & GitHub
