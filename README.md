@@ -1,5 +1,6 @@
- Rishabh Madaan | Portfolio - Code & Rhythm
-Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. This site showcases my passion for tech and music, along with my skills in web development.
+ Rishabh Madaan 
+ Portfolio - Code & Rhythm
+ Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. This site showcases my passion for tech and music, along with my skills in web development.
 
 📌 Features
 🎯 Fully responsive design
