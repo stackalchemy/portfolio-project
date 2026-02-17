@@ -1,61 +1,25 @@
+This is my personal portfolio website built using HTML, CSS, and JavaScript, designed to showcase my passion for technology, creativity, and music-inspired design. The website delivers a smooth single-page experience with a clean layout, responsive structure, and interactive elements that reflect my frontend development skills and attention to detail.
 
- Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. This site showcases my passion for tech and music, along with my skills in web development.
+The portfolio features a fully responsive design that adapts seamlessly across desktop, tablet, and mobile devices. It includes a dynamic Dark/Light theme toggle implemented using DOM class manipulation, interactive buttons with alerts, and a Show/Hide message feature that enhances user engagement. Navigation is structured for clarity and smooth flow, creating a minimal yet expressive browsing experience.
 
-📌 Features
-🎯 Fully responsive design
+The project structure is simple and organized:
 
-🌙 Dark/Light theme toggle
-
-🧠 Interactive buttons with alerts and hidden messages
-
-📱 Smooth single-page navigation
-
-🎵 A unique vibe mixing code + music
-
-🗂️ Project Structure
-bash
-Copy
-Edit
 📦 Portfolio/
- ┣ 📜 index.html      # Main webpage structure
- ┣ 📜 style.css       # Styling and layout
- ┣ 📜 index.js        # JavaScript interactivity (toggle & reveal)
- ┗ 📄 README.md       # Project documentation
-⚙️ JavaScript Functionalities (index.js)
-Theme Toggle Button
-Toggles between light and dark mode by switching a dark-theme class on the <body>.
+ ┣ 📜 index.html      → Main webpage structure
+ ┣ 📜 style.css       → Styling, layout & responsiveness
+ ┣ 📜 index.js        → JavaScript interactivity
+ ┗ 📄 README.md       → Documentation
 
-Show/Hide Message
-Displays a thank-you message when the "Show Message" button is clicked.
 
-Appreciation Alert
-On clicking the "Appreciate" button in the project section, an alert pops up.
+The JavaScript logic handles theme switching, user interaction events, and content visibility toggling. Styling is implemented using modern CSS techniques to ensure clean UI presentation and responsiveness, while semantic HTML provides structured and accessible markup.
 
-💡 Technologies Used
-HTML5 – Semantic structure
+This project represents my growth as a Computer Science engineering student who enjoys turning ideas into interactive web experiences. I am currently expanding my skill set into React and full-stack development to build more scalable and production-ready applications.
 
-CSS3 – Responsive design + dark theme
+Technologies Used:
+HTML5 (Semantic Structure)
+CSS3 (Responsive Design & Theme Styling)
+Vanilla JavaScript (DOM Manipulation & Interactivity)
 
-JavaScript (Vanilla) – DOM manipulation, interactivity
-
-👨‍🎓 About Me
-I'm an engineering student with a love for music and tech.
-I enjoy turning code into beautiful web experiences and currently learning React for more dynamic applications.
-
-🧪 Live Components
-Component	Tech Used	Description
-Portfolio Card	HTML + CSS	Describes the project with styling
-Theme Toggle	JavaScript + CSS	Switches dark/light mode on button click
-Hidden Msg	JavaScript	Displays message when user interacts
-
-📬 Contact Me
 📧 Email: rishabhmadaan@gmail.com
 
-💻 GitHub: github.com/stackalchemy
-
-🔖 License
-This project is open-source.
-Feel free to fork, remix, or contribute — just don’t forget to vibe with the rhythm 🎧
-
-🙌 Bonus Tip
-If you like what you see, hit the "Appreciate" button — it makes my day! 🚀
+💻 GitHub: https://github.com/stackalchemy
